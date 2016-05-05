@@ -120,7 +120,7 @@ body {
 	box-shadow: 2px 5px 5px 1px rgba(77,77,77,0.2);
 }
 #main-content {
-	margin-left: 280px;
+	margin-left: 210px;
 	margin-top: 100px;
 	padding-left: 15px;
 }
@@ -161,4 +161,44 @@ body {
 .desc2 {
 	margin-top: 10px;
 	margin-bottom: 10px;
+}
+
+/* dashboard */ 
+
+.box0 {
+	text-align: center;
+}
+.box1 {
+	border-bottom: 1px solid #989898;
+}
+.titulo{
+	color: #989898;
+	font-size: 20px;
+	line-height: 10px;
+	margin-bottom: 25px;
+}
+.iconico{
+	font-size: 40px;
+	color: #989898;
+}
+.bajada:hover {
+	visibility: visible !important;
+}
+.box0:hover {
+	padding: 10px;
+	text-align: center;
+	display: block;
+	background-color: white;
+}
+.box0:hover p{
+	font-size: 10px;
+	color: #ff8b63;
+	visibility: visible !important;	
+}
+.bajada {
+	visibility: hidden;
+}
+.
+.cntn {
+	background-color: green;
 }
