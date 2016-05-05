@@ -112,7 +112,7 @@ body {
 	color: white !important;
 }
 /* main content */
-.showback {
+.showback, .mt {
 	background-color: white;
 	padding: 20px;
 	margin-bottom: 20px;
@@ -153,4 +153,7 @@ body {
 	text-transform: uppercase;
 	font-style: italic;
 	font-size: 12px;
+}
+.margins {
+	margin-bottom: 20px;
 }
