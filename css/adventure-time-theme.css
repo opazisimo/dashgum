@@ -11,5 +11,40 @@
     margin-left: -180px;
 }
 
-/*Escribe aqui tu codigo */
+body {
+	color: #797979;
+	background-color: #f2f2f2;	
+}
+/*pagina login */
 
+.form-login {
+	border-radius: 60px;
+}
+#login-page {
+	margin: 0 auto;
+	position: relative;
+	top: 100px;
+}
+
+.login-wrap {
+	background-color: white;
+	width: 30%;
+	margin: 0 auto;
+	padding: 20px;
+
+}
+.form-login-heading {
+	background-color: #68dff0;
+	color: white !important;
+	font-weight: lighter;
+	width: 30%;
+	margin: 0 auto;
+	font-size: 20px;
+	padding: 20px 40px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.registration {
+	text-align: center;
+	margin-top: 20px;
+}
