@@ -181,14 +181,14 @@ body {
 	font-size: 40px;
 	color: #989898;
 }
-.bajada:hover {
-	visibility: visible !important;
-}
 .box0:hover {
 	padding: 10px;
 	text-align: center;
 	display: block;
 	background-color: white;
+}
+.box1:hover {
+	border-bottom: 1px solid white;
 }
 .box0:hover p{
 	font-size: 10px;
