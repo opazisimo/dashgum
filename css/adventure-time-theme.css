@@ -122,6 +122,7 @@ body {
 #main-content {
 	margin-left: 280px;
 	margin-top: 100px;
+	padding-left: 15px;
 }
 
 /* dashboard */
@@ -156,4 +157,8 @@ body {
 }
 .margins {
 	margin-bottom: 20px;
+}
+.desc2 {
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
