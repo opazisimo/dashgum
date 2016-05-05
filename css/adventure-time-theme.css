@@ -48,3 +48,73 @@ body {
 	text-align: center;
 	margin-top: 20px;
 }
+
+/* generales pagina buttons */
+.header {
+	background-color: #424a5d;
+	border-bottom: 1px solid #293241;
+	width: 100%;
+	position: fixed;
+	top:0px;
+	left: 0px;
+	z-index: 999;
+
+}
+.tx-cl {
+	color: white !important;
+} 
+.inlibl{
+	display: inline-block;
+}
+/*sidebar */
+.btn-logout {
+	background-color: #9c4c9d;
+	position: relative;
+	bottom: 20px;
+	right: 20px;
+	color: white;
+}
+.burger {
+	position: relative;
+	left: 20px;
+	top: 20px;
+}
+.loguis {
+	position: relative;
+	left: 50px;
+}
+#sidebar {
+	padding-top: 20px;
+	background-color: #424a5d;
+	position: fixed;
+	top:80px;
+	left: 0px;
+	z-index: 998;
+}
+.sidebar-menu {
+	position: relative;
+	left: -20px;
+}
+.sub-menu{
+	list-style: none;
+	padding: 20px;
+	background-color: #424a5d;
+	color: #aeb2b7;
+}
+.sub-menu a {
+	color: #aeb2b7;
+}
+.active, li:hover, a:hover {
+	color: white !important;
+	background-color: #9c4c9d;
+}
+/* main content */
+.showback {
+	background-color: white;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+#main-content {
+	margin-left: 200px;
+	margin-top: 100px;
+}
